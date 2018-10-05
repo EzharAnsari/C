@@ -1,4 +1,4 @@
-# C
+# C++
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
